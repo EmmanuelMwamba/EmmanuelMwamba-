@@ -1,8 +1,15 @@
-#EmmanuelMwamba- / README.md
+# EmmanuelMwamba / README.md
 
-- 👋 Hi, I’m EmmanuelMwamba
-- 👀 I’m interested in full stack development in Flutter, Java, React Native, and C/C++ for IoT project solutions
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on multiple software solution projects
+- 👋 Hi, I’m Emmanuel Mwamba 
+- 👀 I’m interested in:
+  - Full stack development, specializing in web and app development
+  - Motivational speaking, counseling, and spreading positivity
+- 🌱 I’m currently learning:
+  - React Native for mobile application development, Python programming for data analysis, web development and more  
+- 💞️ I’m looking to collaborate on:
+  - Software solutions and web/app projects
 - 📫 How to reach me: mwambaemmanuel005@gmail.com
-- ⚡ Fun fact: Software Engineer,  FOUNDER EICTA Technologies Ltd.
+- 😀 Pronouns: He/Him
+- ⚡ Fun fact: 
+  - I’m the founder of EICTA Technologies Ltd. as well as founder and lead Pastor of Emmanuel's Christian Corner - Christ's Kingdom Ambassadors, focusing on spreading the gospel and mentoring
+  - I’m passionate about mentoring and motivating others through faith-based teachings and tech-driven solutions
