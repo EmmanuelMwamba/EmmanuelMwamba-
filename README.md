@@ -6,7 +6,7 @@
   - Motivational speaking, counseling, and spreading positivity
 - 🌱 I’m currently learning:
   - React Native for mobile application development, Python programming for data analysis, web development and more  
-- 💞️ I’m looking to collaborate on:
+- 💞️ I’m looking forward to collaborate on:
   - Software solutions and web/app projects
 - 📫 How to reach me: mwambaemmanuel005@gmail.com
 - 😀 Pronouns: He/Him
